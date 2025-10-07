@@ -22,9 +22,9 @@ Aquí podrás acceder a las APIs que he creado para este proyecto:
 """)
 
 st.markdown("""
-- ☁️ [Api de Situacion Climatica](https://tuusuario-github-situacion-climatica.streamlit.app)            
-- 🧀 [API de Quesos del Mundo](https://tuusuario-github-quesos.streamlit.app)
-- 🐈 [API de Gatos del Mundo](https://tuusuario-github-gatos.streamlit.app)
+- ☁️ [Api de Situacion Climatica](https://github.com/Hezron725/Situaci-n-climatica)            
+- 🧀 [API de Quesos del Mundo](https://github.com/Hezron725/Apis-de-Quesos)
+- 🐈 [API de Gatos del Mundo](https://github.com/Hezron725/Razas-de-Gatitos)
 """)
 
 st.info("Cada API muestra listas de datos generadas desde Streamlit con estructura modular.")
